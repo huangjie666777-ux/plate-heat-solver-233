@@ -1,0 +1,11 @@
+build/
+_build/
+*.o
+*.a
+*.so
+*.d
+*.vtk
+.env
+.env.*
+auth.json
+*.key

@@ -1,0 +1,14 @@
+{
+  "language": "C++17",
+  "compiler": "GCC11.4.0",
+  "build_tool": "GNU Make4.3",
+  "dependencies": [
+    {
+      "name": "Eigen",
+      "version": "3.4.0",
+      "path": "third_party/eigen3",
+      "homepage": "https://eigen.tuxfamily.org/",
+      "content_manifest_sha256": "de6e666668f551dacb61e4a84dbfeb85d83096080e41218f98effc6a76ad4611"
+    }
+  ]
+}
